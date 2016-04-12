@@ -1,8 +1,8 @@
 Xun Zhu
 =======
 
-Senior PHP Developer, UX Director
----------------------------------
+Graduate Assitant
+-----------------
 
 > Epidemiology  
 > University of Hawaii Cancer Center  
@@ -62,6 +62,6 @@ Gizmonic Institute Company (GIM)
 
 ### Footer {#footer}
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
+Xun Zhu -- [zhuxun2@gmail.com](zhuxun2@gmail.com) -- (213) 618-2159
 
 ------
